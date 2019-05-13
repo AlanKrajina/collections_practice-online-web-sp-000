@@ -48,6 +48,7 @@ def add_s(array)
    if element.end_with?("s")
     new_array= element << "s" 
   else
+        new_array= element << "s" 
   end
 end
 end
